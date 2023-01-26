@@ -1,7 +1,7 @@
 from django.shortcuts import render
 import pyrebase
 config={
-  "apiKey": "AIzaSyBJkCHJrRZkFY5EPAWWiSJwxXAch_QC8Qw",
+  "apiKey": "***************************************",
   "authDomain": "civil-rarity-334615.firebaseapp.com",
   "databaseURL":"https://civil-rarity-334615-default-rtdb.firebaseio.com/",
   "projectId": "civil-rarity-334615",
